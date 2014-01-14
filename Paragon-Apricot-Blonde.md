@@ -1,5 +1,7 @@
 # Paragon Apricot Blonde (Northern Brewer)
 
+_Original Gravity: 1.055_
+
 ## Ingredients
 
 - 0.5 lbs Briess Carmel 20L
