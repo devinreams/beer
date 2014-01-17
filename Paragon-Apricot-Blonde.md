@@ -1,4 +1,4 @@
-# Paragon Apricot Blonde (Northern Brewer)
+# [Paragon Apricot Blonde (Northern Brewer)](http://www.northernbrewer.com/shop/dry-dock-paragon-apricot-blonde-pro-series-all-grain-kit.html)
 
 _Original Gravity: 1.055_
 
@@ -14,7 +14,7 @@ _Original Gravity: 1.055_
 
 ## Directions
 
-1. Remove the Wyeast pack and "smack" as shown
+1. Remove the Wyeast pack and "smack" as instructed
 2. Collect and heat 2.5 gallons of water
 3. Steep crushed grain in mesh bag for 20 minutes (or until water reaches 170 F)
 4. Bring to a boil. Remove kettle from burner and add the 6.3 lbs Gold malt syrup and 1 lb Golden Light dry malt extract.
