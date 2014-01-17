@@ -2,7 +2,7 @@
 
 ## Devin's home of completed beer recipes and kits!
 
-_Beers are listed in order of brewing. As with beer, some techniques became better with time._
+**Beers are listed in order of brewing. As with beer, some techniques became better with time.**
 
 1. Slam Dunkelweisen
 2. Blondes Have More Fun Ale
