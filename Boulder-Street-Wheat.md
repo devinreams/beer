@@ -1,4 +1,4 @@
-# Boulder Street Wheat
+# Boulder Street Wheat (Stomp Them Grapes/Hop to It!)
 
 _Original Gravity: 1.048_  
 _Final Gravity: 1.011_  
