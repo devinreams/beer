@@ -5,7 +5,7 @@
 **Beers are listed in order of brewing. As with beer, some techniques became better with time.**
 
 1. [Slam Dunkelweisen (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Slam-Dunkelweizen.md)
-2. Blondes Have More Fun Ale
+2. [Blondes Have More Fun Ale (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Blondes-Have-More-Fun-Ale.md)
 3. [Hugh Hefeweizen (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Hugh-Hefeweizen.md)
 4. [Boulder Street Wheat (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Boulder-Streat-Wheat.md)
 5. Saison
