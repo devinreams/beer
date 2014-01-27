@@ -4,10 +4,10 @@
 
 **Beers are listed in order of brewing. As with beer, some techniques became better with time.**
 
-1. Slam Dunkelweisen
+1. [Slam Dunkelweisen (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Slam-Dunkelweizen.md)
 2. Blondes Have More Fun Ale
 3. Hugh Hefeweizen
-4. [Boulder Street Wheat](https://github.com/devinreams/beer/blob/master/Boulder-Streat-Wheat.md)
+4. [Boulder Street Wheat (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Boulder-Streat-Wheat.md)
 5. Saison
 6. The Gubernator Pale Ale
 7. Fat Tire Amber Ale
