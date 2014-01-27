@@ -1,8 +1,8 @@
 # Devin's Beer Recipes
 
-## Devin's home of completed beer recipes and kits!
+**Devin's home of completed beer recipes and kits!**
 
-**Beers are listed in order of brewing. As with beer, some techniques became better with time.**
+*Beers are listed in order of brewing. As with beer, some techniques became better with time.*
 
 1. [Slam Dunkelweisen (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Slam-Dunkelweizen.md)
 2. [Blondes Have More Fun Ale (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Blondes-Have-More-Fun-Ale.md)
