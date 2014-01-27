@@ -31,7 +31,7 @@ _Final Gravity: 1.011_
 10. After 5 minutes, remove pot from heat and chill as quickly as possible
 11. Once wort is cooled below 80 F, pour into primary fermenter
 12. Top off to 5 gallons with cool water
-13. Stir with spoon to aerate, record starting gravity and pitch Wyeast 1010
+13. Stir with spoon to aerate, record starting gravity and pitch yeast
 14. Place lid and airlock on and ferment at 62-72 F
 15. After 7-10 days take another gravity reading (it should within 2-8 points of the final)
 16. Rack the beer into a carboy for secondary fermentation

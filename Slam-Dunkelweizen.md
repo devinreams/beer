@@ -28,7 +28,7 @@ _IBU: 18_
 8. After 60 minutes, remove pot from heat and chill as quickly as possible
 9. Once wort is cooled below 80 F, pour into primary fermenter
 10. Top off to 5 gallons with cool water
-11. Stir with spoon to aerate, record starting gravity and pitch Wyeast 1010
+11. Stir with spoon to aerate, record starting gravity and pitch yeast
 12. Place lid and airlock on and ferment at 62-72 F
 13. After 10-14 days take another gravity reading (it should be close to the final)
 14. Rack beer into bottles (condition for 14 days) or a keg
