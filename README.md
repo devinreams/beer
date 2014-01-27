@@ -9,7 +9,7 @@
 3. [Hugh Hefeweizen (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Hugh-Hefeweizen.md)
 4. [Boulder Street Wheat (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Boulder-Streat-Wheat.md)
 5. Saison
-6. The Gubernator Pale Ale
+6. [The Gubernator Pale Ale (Stom Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/The-Gubernator-Pale-Ale.md)
 7. Fat Tire Amber Ale
 8. Blondes Have More Fun Ale (Belgian)
 9. Bavarian Hefeweizen (Northern Brewer)
