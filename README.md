@@ -11,7 +11,7 @@
 5. Saison
 6. [The Gubernator Pale Ale (Stom Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/The-Gubernator-Pale-Ale.md)
 7. [Over Inflated Rubber Thingy Amber Ale (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Over-Inflated-Rubber-Thingy-Amber-Ale.md)
-8. Blondes Have More Fun Ale (Belgian)
+8. [Blondes Have More Fun Ale with American yeast (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Blondes-Have-More-Fun-Ale.md)
 9. Bavarian Hefeweizen (Northern Brewer)
 10. Irish Red Ale (Northern Brewer)
 11. White House Honey Ale (Northern Brewer)
