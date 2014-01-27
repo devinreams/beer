@@ -2,7 +2,7 @@
 
 _Original Gravity: 1.048_  
 _Final Gravity: 1.011_  
-_ABC: 4.9%_  
+_ABV: 4.9%_  
 _IBU: 19_  
 
 ## Ingredients
@@ -31,5 +31,5 @@ _IBU: 19_
 11. Top off to 5 gallons with cool water
 12. Stir with spoon to aerate, record starting gravity and pitch Wyeast 1010
 13. Place lid and airlock on and ferment at 62-72 F
-14. AFter 10-14 days take another gravity reader (it should be close to the final)
+14. After 10-14 days take another gravity reading (it should be close to the final)
 15. Rack beer into bottles (condition for 14 days) or a keg
