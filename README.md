@@ -7,7 +7,7 @@
 1. Slam Dunkelweisen
 2. Blondes Have More Fun Ale
 3. Hugh Hefeweizen
-4. Boulder Street Wheat
+4. [Boulder Street Wheat](https://github.com/devinreams/beer/blob/master/Boulder-Streat-Wheat.md)
 5. Saison
 6. The Gubernator Pale Ale
 7. Fat Tire Amber Ale
