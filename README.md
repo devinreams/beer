@@ -6,7 +6,7 @@
 
 1. [Slam Dunkelweisen (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Slam-Dunkelweizen.md)
 2. Blondes Have More Fun Ale
-3. Hugh Hefeweizen
+3. [Hugh Hefeweizen (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Hugh-Hefeweizen.md)
 4. [Boulder Street Wheat (Stomp Them Grapes/Hop to It!)](https://github.com/devinreams/beer/blob/master/Boulder-Streat-Wheat.md)
 5. Saison
 6. The Gubernator Pale Ale
