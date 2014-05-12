@@ -1,5 +1,7 @@
 # Devin's Beer Recipes
 
+![Devin brews beer at GitHub](https://camo.githubusercontent.com/00f741879cce185cc3c8283b4190da6785849416/687474703a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031332f68697265732f646576696e2d7265616d732e676966)
+
 **Devin's home of completed beer recipes and kits!**
 
 *Beers are listed in order of brewing. As with beer, some techniques became better with time.*
